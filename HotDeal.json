@@ -1,0 +1,51 @@
+[
+    {
+        "id": "wow-199",
+        "type": "promo",
+        "title": "Medium Pan Pizzas Starting At ₹ 199",
+        "desc": "Medium Pan Pizzas Starting At ₹ 199",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/promo/wow-199.612e704ac64e48d2e870599f0df2c861.1.jpg"
+    },
+    {
+        "id": "wow-99",
+        "type": "promo",
+        "title": "Personal Pan Pizzas Starting At ₹ 99",
+        "desc": "Personal Pan Pizzas Starting At ₹ 99",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/promo/wow-99.1665a824c3d4540d8acc43fb011a9a77.1.jpg"
+    },
+    {
+        "id": "dcw-499",
+        "type": "promo",
+        "title": "3 Medium Pizzas at ₹ 499",
+        "desc": "3 Medium Margherita Pizzas",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/promo/dcw-499.c27c73f8554c44e970bc9d28ed63193c.1.jpg"
+    },
+    {
+        "id": "50-off-delivery-medium",
+        "type": "promo",
+        "title": "Get 50% OFF on Medium Pizzas. (Prices are after discount)",
+        "desc": "Super Value Deal. Select 2 Medium Pizzas @ 50% OFF",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/promo/50-off-delivery-medium.d849a7d29dde9b5ec589ce34b9d86e9a.1.jpg"
+    },
+    {
+        "id": "triple-treat-box-veg",
+        "type": "promo",
+        "title": "Super Saver Meal for 4 starting at Rs.699 (Save Upto 40%)",
+        "desc": "Any 2 Medium Pizzas, 1 Garlic Bread Stix, 1 Potato Poppers, 1 Tandoori Pocket Paneer",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/promo/triple-treat-box-veg.9f4429a6dc6dcc732cae5e67ae8233b1.1.jpg"
+    },
+    {
+        "id": "triple-treat-box-non-veg",
+        "type": "promo",
+        "title": "Super Saver Meal for 4 starting at Rs.699 (Save Upto 45%)",
+        "desc": "Any 2 Medium Pizzas, 1 Garlic Bread Stix, 1 Potato Poppers, 1 Tandoori Pocket Paneer",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/promo/triple-treat-box-non-veg.8441d8fe9f30cd947f53cad5bddc905a.1.jpg"
+    },
+    {
+        "id": "hut-meal-for-4",
+        "type": "promo",
+        "title": "Super Saver Meal Combo at Rs.799 (Save Upto 50%)",
+        "desc": "2 Med Pizza of Choice, 1 Garlic Breadstix, 1 Creamy Garlic Breadstix, 2 Pepsi Pet Bottles",
+        "img": "https://api.pizzahut.io/v1/content/en-in/in-1/images/promo/hut-meal-for-4.cadaf22fd4181bd5801f5ccab1a20cc6.1.jpg"
+    }
+]
