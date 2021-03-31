@@ -1,32 +1,42 @@
 [
   {
-    "id": "deal",
+    "id": "deals",
+    "type": "deal",
     "name": "Deals",
     "imageUrl": "https://static.phdvasia.com/development/menu/display_category/icon_99cb2f5e-fb85-4657-9d22-8917d5213ff8.jpg",
-    "sequence": 1
+    "sequence": 1,
+    "spanCount": 1
   },
   {
-    "id": "pizza",
+    "id": "pizzas",
+    "type": "pizza",
     "name": "Pizzas",
     "imageUrl": "https://static.phdvasia.com/development/menu/display_category/icon_11b6bca2-ebd5-4645-867a-70018fff086d.jpg",
-    "sequence": 2
+    "sequence": 2,
+    "spanCount": 2
   },
   {
-    "id": "side",
+    "id": "sides",
+    "type": "side",
     "name": "Sides",
     "imageUrl": "https://static.phdvasia.com/development/menu/display_category/icon_f4c74003-1daf-40ed-b4d1-ab04229fc639.jpg",
-    "sequence": 3
+    "sequence": 3,
+    "spanCount": 2
   },
   {
-    "id": "desert",
-    "name": "Deserts",
+    "id": "desserts",
+    "type": "dessert",
+    "name": "Desserts",
     "imageUrl": "https://static.phdvasia.com/development/menu/display_category/icon_9126955e-2a61-49e5-84c3-704de1314945.jpg",
-    "sequence": 4
+    "sequence": 4,
+    "spanCount": 2
   },
   {
-    "id": "drink",
+    "id": "drinks",
+    "type": "drink",
     "name": "Drinks",
     "imageUrl": "https://static.phdvasia.com/development/menu/display_category/icon_85fd78dd-a90c-469f-8c31-b9b33704f1bf.jpg",
-    "sequence": 5
+    "sequence": 5,
+    "spanCount": 2
   }
 ]
