@@ -92,6 +92,26 @@
           }
         ]
       }
+    ],
+    "payment_method" : [
+        {
+            "id" : "razorpay",
+            "name" : "Debit / Credit Card",
+            "method" : "card",
+            "icon_url" : "https://images2.imgbox.com/c0/cc/NqKwdIrH_o.png"
+        },
+        {
+            "id" : "paytm",
+            "name" : "Paytm",
+            "method" : "card",
+            "icon_url" : "https://images2.imgbox.com/8a/58/bhQqSmv6_o.png"
+        },
+        {
+            "id" : "cash",
+            "name" : "Cash",
+            "method" : "cash",
+            "icon_url" : "https://images2.imgbox.com/c0/6b/NJY6Y0Xw_o.png"
+        }
     ]
   },
   "feature": {
