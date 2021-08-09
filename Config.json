@@ -19,10 +19,12 @@
         "day_of_week": 1,
         "promos": [
           {
-            "id": "one-plus-one"
+            "id": "one-plus-one",
+            "type": "deal"
           },
           {
-            "id": "hut-meal-for-4"
+            "id": "hut-meal-for-4",
+            "type": "deal"
           }
         ]
       },
@@ -30,10 +32,12 @@
         "day_of_week": 2,
         "promos": [
           {
-            "id": "one-plus-one"
+            "id": "one-plus-one",
+            "type": "deal"
           },
           {
-            "id": "hut-meal-for-4"
+            "id": "hut-meal-for-4",
+            "type": "deal"
           }
         ]
       },
@@ -41,10 +45,12 @@
         "day_of_week": 3,
         "promos": [
           {
-            "id": "one-plus-one"
+            "id": "one-plus-one",
+            "type": "deal"
           },
           {
-            "id": "hut-meal-for-4"
+            "id": "hut-meal-for-4",
+            "type": "deal"
           }
         ]
       },
@@ -52,10 +58,12 @@
         "day_of_week": 4,
         "promos": [
           {
-            "id": "one-plus-one"
+            "id": "one-plus-one",
+            "type": "deal"
           },
           {
-            "id": "hut-meal-for-4"
+            "id": "hut-meal-for-4",
+            "type": "deal"
           }
         ]
       },
@@ -63,10 +71,12 @@
         "day_of_week": 5,
         "promos": [
           {
-            "id": "one-plus-one"
+            "id": "one-plus-one",
+            "type": "deal"
           },
           {
-            "id": "hut-meal-for-4"
+            "id": "hut-meal-for-4",
+            "type": "deal"
           }
         ]
       },
@@ -74,10 +84,12 @@
         "day_of_week": 6,
         "promos": [
           {
-            "id": "one-plus-one"
+            "id": "one-plus-one",
+            "type": "deal"
           },
           {
-            "id": "hut-meal-for-4"
+            "id": "hut-meal-for-4",
+            "type": "deal"
           }
         ]
       },
@@ -85,33 +97,15 @@
         "day_of_week": 7,
         "promos": [
           {
-            "id": "one-plus-one"
+            "id": "one-plus-one",
+            "type": "deal"
           },
           {
-            "id": "hut-meal-for-4"
+            "id": "hut-meal-for-4",
+            "type": "deal"
           }
         ]
       }
-    ],
-    "payment_method" : [
-        {
-            "id" : "razorpay",
-            "name" : "Debit / Credit Card",
-            "method" : "card",
-            "icon_url" : "https://images2.imgbox.com/c0/cc/NqKwdIrH_o.png"
-        },
-        {
-            "id" : "paytm",
-            "name" : "Paytm",
-            "method" : "card",
-            "icon_url" : "https://images2.imgbox.com/8a/58/bhQqSmv6_o.png"
-        },
-        {
-            "id" : "cash",
-            "name" : "Cash",
-            "method" : "cash",
-            "icon_url" : "https://images2.imgbox.com/c0/6b/NJY6Y0Xw_o.png"
-        }
     ]
   },
   "feature": {
