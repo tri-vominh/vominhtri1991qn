@@ -1,0 +1,150 @@
+{
+  "sector": {
+    "default": {
+      "id": "in-1",
+      "locale": "en-IN"
+    },
+    "dineIn": {
+      "id": "in-2",
+      "locale": "en-IN"
+    }
+  },
+  "content": {
+    "home-banners": {
+      "image": "h",
+      "deeplink": "deeplink"
+    },
+    "deals": [
+      {
+        "day_of_week": 1,
+        "promos": [
+          {
+            "id": "one-plus-one",
+            "type": "deal"
+          },
+          {
+            "id": "hut-meal-for-4",
+            "type": "deal"
+          }
+        ]
+      },
+      {
+        "day_of_week": 2,
+        "promos": [
+          {
+            "id": "one-plus-one",
+            "type": "deal"
+          },
+          {
+            "id": "hut-meal-for-4",
+            "type": "deal"
+          }
+        ]
+      },
+      {
+        "day_of_week": 3,
+        "promos": [
+          {
+            "id": "one-plus-one",
+            "type": "deal"
+          },
+          {
+            "id": "hut-meal-for-4",
+            "type": "deal"
+          }
+        ]
+      },
+      {
+        "day_of_week": 4,
+        "promos": [
+          {
+            "id": "one-plus-one",
+            "type": "deal"
+          },
+          {
+            "id": "hut-meal-for-4",
+            "type": "deal"
+          }
+        ]
+      },
+      {
+        "day_of_week": 5,
+        "promos": [
+          {
+            "id": "one-plus-one",
+            "type": "deal"
+          },
+          {
+            "id": "hut-meal-for-4",
+            "type": "deal"
+          }
+        ]
+      },
+      {
+        "day_of_week": 6,
+        "promos": [
+          {
+            "id": "one-plus-one",
+            "type": "deal"
+          },
+          {
+            "id": "hut-meal-for-4",
+            "type": "deal"
+          }
+        ]
+      },
+      {
+        "day_of_week": 7,
+        "promos": [
+          {
+            "id": "one-plus-one",
+            "type": "deal"
+          },
+          {
+            "id": "hut-meal-for-4",
+            "type": "deal"
+          }
+        ]
+      }
+    ],
+    "payment_method": [
+      {
+        "id": "razorpay",
+        "name": "Debit / Credit Card",
+        "method": "card",
+        "icon_url": "https://images2.imgbox.com/c0/cc/NqKwdIrH_o.png"
+      },
+      {
+        "id": "paytm",
+        "name": "Paytm",
+        "method": "card",
+        "icon_url": "https://images2.imgbox.com/8a/58/bhQqSmv6_o.png"
+      },
+      {
+        "id": "cash",
+        "name": "Cash",
+        "method": "cash",
+        "icon_url": "https://images2.imgbox.com/c0/6b/NJY6Y0Xw_o.png"
+      }
+    ]
+  },
+  "feature": {
+    "localization": {
+      "disposition": [
+        {
+          "name": "Delivery",
+          "enable": true,
+          "id": "D"
+        },
+        {
+          "name": "Collection",
+          "id": "C",
+          "enable": true
+        }
+      ]
+    },
+    "deals": true,
+    "menu": true,
+    "welcome": true
+  }
+}
