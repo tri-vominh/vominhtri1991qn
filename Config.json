@@ -110,21 +110,21 @@
     "payment_method": [
       {
         "id": "razorpay",
-        "name": "Debit / Credit Card",
+        "name": "Online",
         "method": "card",
-        "icon_url": "https://images2.imgbox.com/c0/cc/NqKwdIrH_o.png"
+        "icon_url": "https://static.phdvasia.com/resource/bbba29c7-e230-45d3-9ecc-8210101d35a7-icon-credit-card.png"
       },
       {
         "id": "paytm",
         "name": "Paytm",
         "method": "card",
-        "icon_url": "https://images2.imgbox.com/8a/58/bhQqSmv6_o.png"
+        "icon_url": "https://static.phdvasia.com/resource/5a55cf1c-ce1b-443a-a4a2-6cbbb7c21077-icon-paytm.png"
       },
       {
         "id": "cash",
         "name": "Cash",
         "method": "cash",
-        "icon_url": "https://images2.imgbox.com/c0/6b/NJY6Y0Xw_o.png"
+        "icon_url": "https://static.phdvasia.com/resource/576b6350-4a02-44b6-884b-ccd9083b44e9-icon-cash-India.png"
       }
     ]
   },
