@@ -11,7 +11,7 @@
     "id": "pizzas",
     "type": "pizza",
     "name": "Pizzas",
-    "imageUrl": "https://static.phdvasia.com/development/menu/display_category/icon_11b6bca2-ebd5-4645-867a-70018fff086d.jpg",
+    "imageUrl": "https://static.phdvasia.com/resource/a07168a0-cd4f-40c4-8a82-72d9cec1aaba-pizza-panner-tandoori.jpg",
     "sequence": 2,
     "spanCount": 2
   },
@@ -19,7 +19,7 @@
     "id": "sides",
     "type": "side",
     "name": "Sides",
-    "imageUrl": "https://static.phdvasia.com/development/menu/display_category/icon_f4c74003-1daf-40ed-b4d1-ab04229fc639.jpg",
+    "imageUrl": "https://static.phdvasia.com/resource/60f24e38-d65d-407f-9e5e-7438dd0c1662-desserts-tomato.jpg",
     "sequence": 3,
     "spanCount": 2
   },
@@ -27,7 +27,7 @@
     "id": "desserts",
     "type": "dessert",
     "name": "Desserts",
-    "imageUrl": "https://static.phdvasia.com/development/menu/display_category/icon_9126955e-2a61-49e5-84c3-704de1314945.jpg",
+    "imageUrl": "https://static.phdvasia.com/resource/2611534a-8a9a-47cd-8bab-f0a217b28a12-dessert-choco.jpg",
     "sequence": 4,
     "spanCount": 2
   },
@@ -35,7 +35,7 @@
     "id": "drinks",
     "type": "drink",
     "name": "Drinks",
-    "imageUrl": "https://static.phdvasia.com/development/menu/display_category/icon_85fd78dd-a90c-469f-8c31-b9b33704f1bf.jpg",
+    "imageUrl": "https://static.phdvasia.com/resource/e4be70ee-406d-4923-9391-39fa51caf319-drinks-pepsi.jpg",
     "sequence": 5,
     "spanCount": 2
   }
