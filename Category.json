@@ -24,11 +24,19 @@
     "spanCount": 2
   },
   {
+    "id": "dips",
+    "type": "dip",
+    "name": "Dips",
+    "imageUrl": "https://static.phdvasia.com/resource/60f24e38-d65d-407f-9e5e-7438dd0c1662-desserts-tomato.jpg",
+    "sequence": 4,
+    "spanCount": 2
+  },
+  {
     "id": "desserts",
     "type": "dessert",
     "name": "Desserts",
     "imageUrl": "https://static.phdvasia.com/resource/2611534a-8a9a-47cd-8bab-f0a217b28a12-dessert-choco.jpg",
-    "sequence": 4,
+    "sequence": 5,
     "spanCount": 2
   },
   {
@@ -36,7 +44,7 @@
     "type": "drink",
     "name": "Drinks",
     "imageUrl": "https://static.phdvasia.com/resource/e4be70ee-406d-4923-9391-39fa51caf319-drinks-pepsi.jpg",
-    "sequence": 5,
+    "sequence": 6,
     "spanCount": 2
   }
 ]
